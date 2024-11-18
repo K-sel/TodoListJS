@@ -17,4 +17,4 @@ Objectives
 	•	Use event delegation for efficient interaction handling.
 	•	Deliver a dynamic user experience while maintaining code clarity.
 
-**Grade achieved: 6**
+**Grade achieved: 6 (Switzerland rating system)** 
