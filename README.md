@@ -17,4 +17,4 @@ Objectives
 	•	Use event delegation for efficient interaction handling.
 	•	Deliver a dynamic user experience while maintaining code clarity.
 
-Feel free to explore the code and provide feedback! 🎉
+**Grade achieved: 6**
